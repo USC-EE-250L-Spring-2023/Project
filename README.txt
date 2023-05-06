@@ -26,4 +26,4 @@ import tkinter as tk
 The link to the video is below:
 https://www.youtube.com/watch?v=cvPDFDlu6a0
 
-The write up is EE250 Final Project - Welland_Kroll.pdf
+The write up is EE250 Final Project - Welland_Kroll.pdf this is found in the Repo.
